@@ -18,7 +18,7 @@ As I have no coding experience, I asked Gemini to code this for me so it came up
 <b>OK, now tell me about the files?</b>
 I tested all versions, they all need python3. All versions were tested on Fedora 44 KDE. I did not test this on any non-systemd systems. I did not test this on any Arch/Debian-derivative either. But because they are written in python, I believe they should work cross-platform.
 
-<strong>Latest version is VERSION 3.3</strong>:
+<strong>Current version: Version 3.3</strong>:
 - Version 3.0 (tested, OK) - Original TUI version. Generated on Google Gemini.
 - Version 3.1 (tested, OK) - Asked Gemini to give me some categorisation capability but it was buggy. Generated on Google Gemini.
 - Version 3.2 (tested, OK) - Reverted back to original version and added GPL3 license. Generated on Google Gemini.
