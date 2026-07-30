@@ -7,7 +7,7 @@ Hello, world!
 I am NOT A PROGRAMMER. I simply had fun prompting Gemini to output all the python codes you will find in this repository.
 
 <b>OK, now about the concept?</b>
-I wanted to create a TUI tool to easily visualise the kernel modules currently loaded by my OS just to learn more about each of them.
+I wanted to create a TUI tool to easily visualise the kernel modules currently loaded by my OS just to learn more about each one of them.
 
 <img width="480" height="270" alt="Screenshot_20260730_120434" src="https://github.com/user-attachments/assets/0807d7dc-f77f-469d-af21-861cdd760cf9" />
 
