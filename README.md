@@ -16,7 +16,7 @@ I wanted to create a TUI tool to easily visualise the kernel modules currently l
 As I have no coding experience, I asked Gemini to code this for me so it came up with the ".py" files you see. All the versions uploaded here represent the evolution of my concept, for you to have a look and audit, use and fork, and do as you well please (I think I put it under GPL3).
 
 <b>OK, now tell me about the files?</b>
-I tested all versions, they all versions need python3. All versions were tested on Fedora 44 KDE. I did not test this on any non-systemd systems. I did not test this on any Arch/Debian-derivative either. But because they are written in python, I believe they should work cross-platform.
+I tested all versions, they all need python3. All versions were tested on Fedora 44 KDE. I did not test this on any non-systemd systems. I did not test this on any Arch/Debian-derivative either. But because they are written in python, I believe they should work cross-platform.
 
 <strong>Latest version is VERSION 3.3</strong>:
 - Version 3.0 (tested, OK) - Original TUI version. Generated on Google Gemini.
