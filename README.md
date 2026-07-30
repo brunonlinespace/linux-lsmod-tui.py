@@ -24,7 +24,7 @@ I tested all versions, they all need python3. All versions were tested on Fedora
 3. Ensure you're on the same directory of the file (or navigate to it) and launch it typing "python3 *.py" in the terminal.
 5. Have fun!
 
-<strong>Current version: Version 3.3. Change log:</strong>:
+<strong>Current version: Version 3.3. Change log:</strong>
 - Version 3.3 (tested, OK) - Manually replaced references to "Fedora" with "Linux".
 - Version 3.2 (tested, OK) - Reverted back to original version and added GPL3 license. Generated on Google Gemini.
 - Version 3.1 (tested, OK) - Asked Gemini to give me some categorisation capability but it was buggy. Generated on Google Gemini.
