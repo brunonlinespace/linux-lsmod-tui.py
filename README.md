@@ -18,17 +18,17 @@ As I have no coding experience, I asked Gemini to code this for me so it came up
 <b>OK, now tell me about the files?</b>
 I tested all versions, they all need python3. All versions were tested on Fedora 44 KDE. I did not test this on any non-systemd systems. I did not test this on any Arch/Debian-derivative either. But because they are written in python, I believe they should work cross-platform.
 
-<strong>Current version: Version 3.3</strong>:
-- Version 3.0 (tested, OK) - Original TUI version. Generated on Google Gemini.
-- Version 3.1 (tested, OK) - Asked Gemini to give me some categorisation capability but it was buggy. Generated on Google Gemini.
-- Version 3.2 (tested, OK) - Reverted back to original version and added GPL3 license. Generated on Google Gemini.
-- Version 3.3 (tested, OK) - Manually replaced references to "Fedora" with "Linux".
-
 <b>OK, SO HOW DO I RUN THIS?</b>
 1. Ensure you have the required dependencies: python3.
 2. Download the python file(s) you wish.
 3. Ensure you're on the same directory of the file (or navigate to it) and launch it typing "python3 *.py" in the terminal.
 5. Have fun!
+
+<strong>Current version: Version 3.3. Change log:</strong>:
+- Version 3.3 (tested, OK) - Manually replaced references to "Fedora" with "Linux".
+- Version 3.2 (tested, OK) - Reverted back to original version and added GPL3 license. Generated on Google Gemini.
+- Version 3.1 (tested, OK) - Asked Gemini to give me some categorisation capability but it was buggy. Generated on Google Gemini.
+- Version 3.0 (tested, OK) - Original TUI version. Generated on Google Gemini.
 
 <hr>
 I thought this was a fun little project so I decided to share it in case you find it fun/useful too. You can help me make it better, but I do not plan to spend much time on this project unless it really does take off, but I need the open-source collaboration because I am not a programmer and I have no clue about python (yet?). I am also new in GitHub so please be kind to me :-P
