@@ -1,4 +1,4 @@
-# linux-lsmod-tui
+# linux-lsmod-tui.py
 A python equivalent of lsmod and modinfo commands on Linux, but in TUI format and better organised.
 
 Hello, world!
