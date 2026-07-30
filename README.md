@@ -1,5 +1,5 @@
 # linux-lsmod-tui.py (archive)
-Archived versions of the linux-lsmod-tui.py
+Archived versions of the linux-lsmod-tui.py (https://github.com/brunonlinespace/linux-lsmod-tui.py)
 
 <strong>Active version: Check "Main" branch. Change log:</strong>
 - Version 3.3 (tested, OK) - Manually replaced references to "Fedora" with "Linux".
