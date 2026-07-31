@@ -92,7 +92,7 @@ def draw_menu(stdscr):
     stdscr.addstr(
         0,
         0,
-        f" Linux Kernel Module Inspector ({len(modules)} loaded)".ljust(
+        f" Linux Kernel Module Inspector v11 ({len(modules)} loaded)".ljust(
             w - 1
         )[: w - 1],
     )
