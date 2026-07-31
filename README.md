@@ -20,7 +20,8 @@ The files in the "Main" branch are the latest and greatest. The files in the "Ar
 <b>OK, how do I run this?</b>
 1. Ensure you have the required dependencies: python3.
 2. Download the python file(s) you wish.
-3. Ensure you're on the same directory of the file (or navigate to it) and launch it typing "python3 *.py" in the terminal.
+3. Ensure you're on the same directory of the file or navigate to it.
+4. On the terminal, launch it by typing "python3" + the name of the file you want to try.
 5. Have fun!
 
 <strong>Current version: Version 3.4.</strong>
