@@ -24,7 +24,7 @@ I tested all versions, they all need python3. All versions were tested on Fedora
 3. Ensure you're on the same directory of the file (or navigate to it) and launch it typing "python3 *.py" in the terminal.
 5. Have fun!
 
-<strong>Current version: Version 3.3.</strong>
+<strong>Current version: Version 3.4.</strong>
 - Manually modified the headers to align with my other projects.
 - Rest of the change log in the "Archive" branch (https://github.com/brunonlinespace/linux-lsmod-tui.py/tree/archive).
 
